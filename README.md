@@ -1,5 +1,5 @@
 # go_scyllaDb
-simple example of scylla db with go
+simple example of scylla db with golang
 	
 run as follows
 
